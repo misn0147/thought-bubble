@@ -24,8 +24,8 @@ This video demonstrates GET, POST, PUT, and DELETE methods for users and thought
 MIT
 
 ## Technologies Used
-JavaScript
-Express.js
-Node.js
-MongoDB
-Mongoose
+* JavaScript
+* Express.js
+* Node.js
+* MongoDB
+* Mongoose
