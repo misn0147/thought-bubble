@@ -14,10 +14,10 @@ This video demonstrates GET, POST, PUT, and DELETE methods for users and thought
 
 
 ## Installation 
-Clone GitHub repository
-In terminal run 'npm init'
-Ensure that MongoDB and Express are installed on your computer.
-In terminal run 'npm start'
+* Clone GitHub repository
+* In terminal run 'npm init'
+* Ensure that MongoDB and Express are installed on your computer.
+* In terminal run 'npm start'
 
 ## License
 MIT
