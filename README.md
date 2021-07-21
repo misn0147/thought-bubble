@@ -8,7 +8,7 @@ I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 
 ## Walkthrough Video
-
+https://drive.google.com/file/d/18UxO59MW7SEeDbcfs2BUjPWfeiN7asK0/view
 This video demonstrates GET, POST, PUT, and DELETE methods for users and thoughts, and the POST and DELETE methods for reactions and friends using Insomnia.
 ![image](https://user-images.githubusercontent.com/79875711/126011903-9e6ca4ea-6524-445f-9eec-9ce6798c09c8.png)
 
